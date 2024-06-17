@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF AutoSuggestEdit - Use Data Grid with InfiniteAsyncSource as Popup
+# WPF AutoSuggestEdit - Use Data Grid with InfiniteAsyncSource as Drop-down
 
 This example embeds [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) with [InfiniteAsyncSource](https://docs.devexpress.com/WPF/10803/controls-and-libraries/data-grid/binding-to-data/binding-to-any-data-source-with-virtual-sources) into the drop-down control of [AutoSuggestEdit](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.AutoSuggestEdit):
 
